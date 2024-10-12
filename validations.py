@@ -16,3 +16,5 @@ def vailidate_user(username, minlen):
         if username [0].isnumeric():
             return False
         return True
+
+print ("i'm testing this for class")
